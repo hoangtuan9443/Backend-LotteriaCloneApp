@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "authenticationmobileapp-f790d",
+  "private_key_id": "cd9d6a7ab80eb4c65fbc6e3e4221c99b86f05c17",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD1WO6FEszhqNpW\n2JG8b3s65zkGp/u7n/5pXBdvaLSErNQVJy1r5DZYBzoLek9SX2+aZB/H1gxlsjQX\nykPfQTalb5jtTeqUaFtF+MZuxCLYDPOSZLmZZLexlm+XoH92XtjpugCEyl+V9eGU\n2ePds1wNx+LLPXKMkk8lEqWkHbrrL3tHFNXYskcDNzCl9cECb+Dk2SQh+ylWDtpR\n6LZ3OnTzryFnyXObLYjKTqnbsmgOXUoZysr1kD6RD6wLhRVWo1zQNINASYm7SiIs\nkJ93UksC99w1oDWICLta3T0jpHQwOQrC0CSS808aqap9F4B6yGQcw0wWAMDqv85C\n0Bz7kkNlAgMBAAECggEAHESt3rlGz+1DkuQLDpoNqcDAakrqjzik+IC61oRK4EqF\neRZ1fkviEwxqHK5v+z6xvikxHDZGYWVB6UfNwChkYnVUOmtSztyjP5GlU1fX5+q+\nGazvUYQwQg7iNqcwaHQPLAbZTnN+xel5n0vnnECxJ4lTUTV4QEgPRGc8nIcsZTJu\nj04GoykGfyZhnKTkTl50lQ229i+KuQfVfh2+4kVKdfG8hlR5hXPf8O2qo4nRba7N\ntQRj0P7VO2O26lPdSeWurpq6LIXUFD+6m6g8SkzLECC8NYRtUcoBfyL1dmhf3TSK\na9S7yMNx++8VGvm3BE1RADK1RKS74Txe7gLRyKyKwQKBgQD/vE/ndEDY2OTW9bzp\nqyR+nHoeiyxFMVcgeytmojUntaOfktSaqpCMwgS3G+ljwPapumxqfX3Z863a2jwU\nlmNWfcX36eo+DGs0jSBT4p7Ez60S1ESagXAURCPSLzS0HP5bW+Kk3BqpyHrVeCNB\nUYsRP2dvuCLZdgs22CJpIZpdEQKBgQD1md67s4y71KdI8ITAT+loEBUc/EMc8fJC\nITdCnAYxOw4Isealrmvp71mGOCiXBEPC25XQRHMk1gkVTUMvRhC+m50zuV5Kw9z3\nebXMOUvnrG8Ebi94O/LBspgJgXpI68lcXIxYtYzZAosDMWggcdBq6xDAFG7sK119\nVR/2QBKRFQKBgQCiNW61T47GPKTCGDKQQEawrE3lS79zz/0ElDuOKPrwSg0T7U0/\nIUr4jSPyhRi/dii+tYmI7jpCYYb31w7evBkcRkCopE04uCXTumQz8P1ltph/5fXx\nzoIpyKKz8c9LI0zO4/RZP2cGJCyNdFtgVfmQohfYzAIGzxID4onJB1BjEQKBgBhG\nw1tuXgTa+kYdcCHKRFoC7PNWhBPCXp3mxp2Q6pPHMJXvb8sEuKoA/Kpltq1mwIPs\nTJyvh2omtfMjFfcAR/tvSlSoiAd/4MGdiDjNmREnXDnl4k9SLaazzo9x+vJmTBsT\nEtRZ7bgtpiwEoDREy8MlxRwXaPdzOeR/m48tuigZAoGATDVe9BZzdKl2qnT4LELn\n9IHzpNeZ1owGQP9XVgsKZ235460gPZzrcRIgwodN504xWRDHmurq+1X1r2v89We9\nSqPNK5HcKw7ZCs18l+PeniyZtqHpdp8ODfDz+xNFRbM25fza6MKLLQP9fiZcqLEB\nTbaRMhmXZjnC9Q1JE27sgw4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wxsci@authenticationmobileapp-f790d.iam.gserviceaccount.com",
+  "client_id": "106562811974463993232",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wxsci%40authenticationmobileapp-f790d.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
